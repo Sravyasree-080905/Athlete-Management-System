@@ -1,0 +1,18 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Environment files (contains API keys)
+.env
+.venv/
+
+# Database files (auto-generated)
+*.db
+*.sqlite3
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# Streamlit configs
+.streamlit/
